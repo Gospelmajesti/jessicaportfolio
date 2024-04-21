@@ -1,0 +1,46 @@
+body{
+    background-color: hsl(0, 0%, 8%);
+}
+.container{
+background-color: hsl(0, 0%, 12%);  
+border: 0px solid hsl(0, 0%, 12%);
+padding: 10px;
+margin:auto ;
+width: 350px;
+}
+.button{
+    background-color: hsl(0, 0%, 20%);
+    border:0px solid  hsl(0, 0%, 20%);
+    padding:15px 20px;;
+    margin :10px;
+    text-align: center;
+    border-radius: 11px;
+}
+.button:hover{
+    background-color: yellow;
+    color:black !important;
+}
+img{
+    border-radius: 50%;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.name{
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+}
+h6{
+    color: yellow;
+    text-align: center;
+}
+.qoute{
+    color:white;
+    text-align: center;
+}
